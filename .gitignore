@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local A733 models, tensors, audio and downloaded archives
+*.gguf
+*.nb
+*.tensor
+*.dat
+*.wav
+*.mp3
+*.tar.gz
